@@ -5,8 +5,8 @@ const Cabecalho = props => {
     return (
         <div>
             <div className='jumbotron text-center'>
-                <h1>Company</h1>
-                <p>We specialize in blablabla</p>
+                <h1>Curso de React.js</h1>
+                <p>ministrado pelo Reginaldo Santos (Xumes)</p>
                 <form>
                     <div className='-group'>
                         <input type='email' className='form-control' size='50' placeholder='Email Address' required />
